@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+<style>
+body{}
+
+#table{
+	border:1px solid;
+	border-collapse:collapse;	
+	width:100%;
+	text-align:left;
+	font-size:14px;
+	color:#6a6969;
+	font-family:萍方-简;
+	background-color:#e4e4e4;
+	text-align:center;
+	border-top: none;
+}
+
+#table td{
+	border:1px solid;	
+	height:26px;
+	border-top-style: none; 
+	border-bottom-style: none	
+}
+
+#table th{
+	border:1px solid;
+	font-weight:bold;
+	height:26px;
+	border-top-style: none; 
+	border-bottom-style: none
+}
+
+#thead{
+	border:1px solid;
+	border-collapse:collapse;	
+	width:100%;
+	text-align:left;
+	font-size:14px;
+	color:#6a6969;
+	font-family:萍方-简;
+	text-align:center;
+}
+
+
+#thead th{
+	border:1px solid;	
+	font-weight:bold;
+	height:26px;
+	outline:none;
+	border-top: none; 
+	border-bottom: none;
+	background-color:#e4e4e4;
+}
+</style>
